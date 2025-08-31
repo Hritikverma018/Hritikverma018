@@ -38,7 +38,7 @@
 
 ### 📄 Download My Resume:
 
-<a href="https://raw.githubusercontent.com/hritikverma018/hritikverma018/main/resume.pdf" download>
+<a href="https://drive.google.com/file/d/1vbvQDtmtF7N1DAgTYDvL39OSXlYLj6i8/view?usp=drivesdk" target="_blank">
   <img src="https://img.shields.io/badge/Download%20Resume-Gray?style=for-the-badge&logo=readthedocs" />
 </a>
 
