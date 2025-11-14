@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Innovating One Line at a Time | Hi, I'm Hritik Verma 👋</h1>
+<h1 align="center">🚀 Hi, I'm Hritik Verma 👋</h1>
 <h3 align="center">Machine Learning Enthusiast • Problem Solver • Tech Explorer</h3>
 
 <p align="center">
