@@ -1,55 +1,91 @@
-<h1 align="left">Hi 👋, I'm Hritik Verma</h1>
-<h3 align="left">A passionate Frontend Developer from India</h3>
+<h1 align="center">🚀 Innovating One Line at a Time | Hi, I'm Hritik Verma 👋</h1>
+<h3 align="center">Machine Learning Enthusiast • Problem Solver • Tech Explorer</h3>
 
-
-- 👨‍💻 All of my projects are available at [My Work](https://github.com/hritikverma018)
-
-- ⚡ Fun fact: I **love designing interactive UIs** & I'm always curious about **new techs!**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&width=650&lines=Machine+Learning+Enthusiast;Passionate+about+AI+and+Automation;Building+Smart+and+Efficient+Solutions;Always+Exploring+New+Technologies+🚀" />
+</p>
 
 ---
 
-### 🔗 Connect with me:
+## 👨‍💻 About Me
+
+- 🤖 I’m passionate about **Machine Learning, AI & automation**
+- 🧠 Currently exploring **ML algorithms, Python, data visualization & model optimization**
+- 🔍 I love solving real-world problems using **data-driven approaches**
+- 💡 My goal: **Build intelligent, impactful solutions**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hritik-verma-240782320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/hritik-verma-240782320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/_hritikverma_007" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/_hritikverma_007">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
- 
+  <a href="mailto:hritikverma380@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
+</p>
+
+### 🤖 Machine Learning Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
 ---
 
-### 📄 Download My Resume:
+## 📄 Download My Resume
 
-<a href="https://drive.google.com/file/d/1vbvQDtmtF7N1DAgTYDvL39OSXlYLj6i8/view?usp=drivesdk" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20Resume-Gray?style=for-the-badge&logo=readthedocs" />
-</a>
+<p>
+  <a href="https://drive.google.com/file/d/1vbvQDtmtF7N1DAgTYDvL39OSXlYLj6i8/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-1f6feb?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats (New Clean Theme)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritikverma018&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hritikverma018&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hritikverma018&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritikverma018&show_icons=true&locale=en" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikverma018&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hritikverma018&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Quote
+
+> "Machine learning isn’t just about models — it’s about building solutions that matter."
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**  
