@@ -25,7 +25,7 @@
   <a href="https://instagram.com/_hritikverma_007">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:hritikverma380@gmail.com">
+  <a href="mailto:hritikverma1404@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
